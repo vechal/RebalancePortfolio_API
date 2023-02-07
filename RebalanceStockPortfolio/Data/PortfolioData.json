@@ -1,0 +1,24 @@
+[
+  {
+    "Symbol": "AAPL",
+    "NumberOfShares": "50",
+    "DesiredPercentage": "22.00"
+  },
+  {
+    "Symbol": "THD",
+    "NumberOfShares": "200",
+    "DesiredPercentage": "38.00"
+  },
+  {
+    "Symbol": "CYBR",
+    "NumberOfShares": "150",
+    "DesiredPercentage": "25.00"
+  },
+  {
+    "Symbol": "ABB",
+    "NumberOfShares": "900",
+    "DesiredPercentage": "15.00"
+  }
+
+
+]
